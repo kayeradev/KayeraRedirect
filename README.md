@@ -3,6 +3,12 @@
 
 # KayeraRedirect
 
+https://kayera.uk/
+https://kayera.uk/discord
+https://kayera.uk/patreon
+https://kayera.uk/linkedin
+https://kayera.uk/github
+
 ### Nedir?
 
 Discord sunucunuzda, moderasyon ekibinize mümkün olan en iyi seviyede yardımcı olacak bir tooldur. Discord botunuzu kullanır. Temel amaç, yanlış kanal kullanımını minimum düzeye indirmektir.
