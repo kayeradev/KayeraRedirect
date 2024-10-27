@@ -4,9 +4,13 @@
 # KayeraRedirect
 
 https://kayera.uk/
+
 https://kayera.uk/discord
+
 https://kayera.uk/patreon
+
 https://kayera.uk/linkedin
+
 https://kayera.uk/github
 
 ### Nedir?
