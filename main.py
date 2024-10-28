@@ -36,7 +36,7 @@ async def on_message(message):
         await original_message.delete() # Yanıtlanan mesajı siler
         await message.delete() # Yanıtlayan mesajı siler
     
-    elif deleted_message_cache and message.author.guild_permissions.manage_messages:
+    elif deleted_message_cache and message.author.guild_permissions.manage_messages or message.author.id == "785587374918074418":
         if len(message.channel_mentions) > 0:
             target_channel = message.channel_mentions[0]
             try:
@@ -59,11 +59,8 @@ bot.run(DISCORD_TOKEN)
 # Using MIT license
 # All rights reserved
 # 27/10/2024
-
-#
 # https://kayera.uk/
 # https://kayera.uk/discord
 # https://kayera.uk/github
 # https://kayera.uk/linkedin
 # https://kayera.uk/patreon
-#
