@@ -21,7 +21,7 @@ Discord sunucunuzda, moderasyon ekibinize mümkün olan en iyi seviyede yardımc
 - Mümkün olduğunca az watermark kullanıldı.
 
 
-- https://kayera.uk/ kısımlarını değiştirmeden kullanmanızı rica ediyorum.
+- https://kayera.software/ kısımlarını değiştirmeden kullanmanızı rica ediyorum.
 
 ## Nasıl indirilir?
 
