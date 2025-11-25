@@ -46,9 +46,9 @@ async def on_message(message):
                 deleted_message_cache = None
                 deleted_message_author = None
             except discord.Forbidden:
-                await message.channel.send("> **Hata:** Bu kanala mesaj gönderme iznim yok.\n-# https://kayera.uk/")
+                await message.channel.send("> **Hata:** Bu kanala mesaj gönderme iznim yok.\n-# https://kayera.software/")
             except discord.HTTPException as e:
-                await message.channel.send(f"> **Hata:** Mesaj gönderilemedi: {e}\n-# https://kayera.uk/")
+                await message.channel.send(f"> **Hata:** Mesaj gönderilemedi: {e}\n-# https://kayera.software/")
 
     await bot.process_commands(message)
 
@@ -59,8 +59,9 @@ bot.run(DISCORD_TOKEN)
 # Using MIT license
 # All rights reserved
 # 27/10/2024
-# https://kayera.uk/
-# https://kayera.uk/discord
-# https://kayera.uk/github
-# https://kayera.uk/linkedin
-# https://kayera.uk/patreon
+# https://kayera.software/
+# https://kayera.software/discord
+# https://kayera.software/github
+# https://kayera.software/linkedin
+# https://kayera.software/patreon
+
